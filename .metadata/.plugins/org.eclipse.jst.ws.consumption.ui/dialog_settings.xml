@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.jst.ws.client.type.java">
+		<item value="https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl"/>
+		<item value="/ConsumindoServicoCorreios/src/main/webapp/wsdl/hello.wsdl"/>
+	</list>
+	<list key="org.eclipse.jst.ws.internal.consumption.ui.widgets.test.ClientTestWidget.sampleFolderText_">
+	</list>
+</section>

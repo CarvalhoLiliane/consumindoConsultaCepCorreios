@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="javax.xml.namespace.QName"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.Service"/>
+    <fullyQualifiedTypeName name="br.com.correios.bsb.sigep.master.bean.cliente.AtendeCliente"/>
+    <fullyQualifiedTypeName name="br.com.correios.bsb.sigep.master.bean.cliente.EnderecoERP"/>
+    <fullyQualifiedTypeName name="java.net.MalformedURLException"/>
+    <fullyQualifiedTypeName name="br.com.correios.bsb.sigep.master.bean.cliente.SQLException_Exception"/>
+    <fullyQualifiedTypeName name="br.com.correios.bsb.sigep.master.bean.cliente.SigepClienteException"/>
+</qualifiedTypeNameHistroy>

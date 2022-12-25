@@ -1,0 +1,9 @@
+package teste.correios;
+
+public class ConsumindoCorreios {
+	
+	public String teste(String name) {
+		return "Acesse o teste " + name;
+	}
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+G:\projetos\consumindoWebServiceCorreios\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2025871916.index
+2052841969.index
+1943658260.index
+2808766365.index
+502200697.index
+1404389461.index
